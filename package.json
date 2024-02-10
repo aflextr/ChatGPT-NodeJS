@@ -1,0 +1,19 @@
+{
+  "name": "dersleri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "openai": "^4.27.0",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10"
+  }
+}
